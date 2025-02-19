@@ -1,6 +1,5 @@
 # Keisatsu Shell Backdoor
-
-![Keisatsu Shell Backdoor Screenshot](https://r00t-shell.com/wp-content/uploads/2025/02/Keisatsu-Shell-Backdoor.png)
+![Keisatsu Shell Backdoor](https://r00t-shell.com/wp-content/uploads/2025/02/Keisatsu-Shell-Backdoor.png "Keisatsu Shell Backdoor")
 
 **Current Version:** V1 Beta (Remake IdxShell)
 
